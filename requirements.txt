@@ -15,4 +15,7 @@ matplotlib
 numpy
 opencv-python-headless
 ultralytics
+opencv-python-headless
+py-opencv
+
 
