@@ -13,3 +13,5 @@ Pillow
 opencv-python
 matplotlib
 numpy
+opencv-python-headless
+
