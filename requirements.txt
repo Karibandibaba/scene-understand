@@ -4,18 +4,7 @@ torchvision>=0.15.0
 numpy==1.24.4
 matplotlib
 Pillow
-opencv-python
+opencv-python-headless
 importlib-metadata  # Required for some Python versions
-streamlit
-torch
 transformers
-Pillow
-opencv-python
-matplotlib
-numpy
-opencv-python-headless
 ultralytics
-opencv-python-headless
-py-opencv
-
-
